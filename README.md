@@ -79,6 +79,7 @@
 					 <p><strong>HTML, CSS, Javascript</strong></p>
 					<p>Representation of a landing page selling insurance plans.</p>
 				</div>
+			</td>
         </tr>
 	    <tr>
             <td width="50%">
@@ -121,10 +122,8 @@
 		    <p>Description goes here</p>
                 </div>	
             </td>
-	    
-        </tr>
-		
-	</table>
+	</tr>
+</table>
 </div>
 <br />
 <br />
