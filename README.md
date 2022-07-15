@@ -64,7 +64,7 @@
 				<h3 align="center">Insure-Landing-Page</h3>
 				<div align="center" >  
 					<a href='https://frontendmentor-insure-landing-page.vercel.app/' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+						<img src="https://github.com/EricAguayo90/ericaguayodotcom/blob/main/assets/project2.jpg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
