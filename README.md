@@ -42,7 +42,7 @@
 				<h3 align="center">Pod-Request-Landing-page</h3>
 				<div align="center">  
 					<a href='https://frontendmentor-pod-request-access.vercel.app/' target="_blank">
-						<img src="Pod-Request-Landing-Page.png" alt="project 1" height="100%" />
+						<img src="https://github.com/EricAguayo90/ericaguayodotcom/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
