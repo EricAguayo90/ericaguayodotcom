@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Eric Aguayo</h1>
 <h3 align="center">A html email developer in Dallas | Forth Worth, Tx</h3>
-<h4 align="center">Hi my name is Eric Aguayo an html developer based out of Dallas, Texas. I've worked on web development for more than 1 year. I have a successful youtube channel with over 80,000 subscribers who love the content I create about web development and over 50,000 students world wide in multiple platforms. My goal is to get all my students and subscribers to a level of being hired as a developer as soon as possible. </h4>
+<h4 align="center">Hi my name is Eric Aguayo an html developer based out of Dallas, Texas. I've worked on teaching myself and taking html email course on codingphasedotcom for about 7 months.</h4>
 
 <hr>
 
