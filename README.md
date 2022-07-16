@@ -45,7 +45,7 @@
 					<br>
 					<p>
 						<a href="https://github.com/EricAguayo90/frontendmentor-pod-request-access" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" target="_blank"/>
 						</a>  
 						<a href="https://frontendmentor-pod-request-access.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
