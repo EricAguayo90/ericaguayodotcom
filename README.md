@@ -81,10 +81,10 @@
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Promotional Email</h3>
+                <h3 align="center">Promotional Email Pure hockey</h3>
                 <div align="center" >  
                     <a href='https://ericaguayo.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                        <img src="https://github.com/EricAguayo90/ericaguayodotcom/blob/main/assets/Screenshot%202022-07-23%20at%2012-04-41%20Pure%20hockey%20email%20clone.jpg?raw=true" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
